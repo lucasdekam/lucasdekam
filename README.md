@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas 👋 
 
-I'm a PhD student interested in statistical physics, electrochemistry, and machine learning. My current projects include:
+I'm a PhD student at TUM with [Prof. Christopher Stein](https://www.ch.nat.tum.de/theochem/startseite/) interested in statistical physics, electrochemistry, and machine learning. My current projects include:
 
 * 🤖 Simulations of electrochemical processes using machine-learning interatomic potentials. I'm training potentials for the platinum-aqueous electrolyte interface, and want to use them for calculating reaction energy barriers with metadynamics.
 
