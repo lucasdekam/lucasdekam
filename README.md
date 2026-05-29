@@ -2,7 +2,7 @@
 
 I'm a PhD student at TUM with [Prof. Christopher Stein](https://www.ch.nat.tum.de/theochem/startseite/) interested in statistical physics, electrochemistry, and machine learning. My current projects include:
 
-* 🤖 Fast simulations of electrochemical processes using machine-learning interatomic potentials and DFTB. 
+* 🤖 Fast simulations of electrochemical processes using machine-learning interatomic potentials and xTB. 
 
 * ✨ Physics of electrochemical interfaces. For example, I implemented a [modified Poisson-Boltzmann model](https://github.com/lucasdekam/frumkin), describing how charges distribute at charged metal-water interfaces. 
 
